@@ -26,12 +26,12 @@
         "calories": 280,
         "type": "traditional ice-cream",
         "ingredients": ["Milk", "Sugar", "Cardamom", "Pistachio", "Almond"],
-        "image": "https://priyansht.github.io/24W-JavaScript-02-Week11/images/ice-cream-xtra1.svg"
+        "image": "https://akur007.github.io/script-java11/images/ice-cream-xtra1.svg"
     }, {
         "name": "Pista Fantasy",
         "calories": 290,
         "type": "ice-cream",
         "ingredients": ["Pistachio Paste", "Vanilla Base", "Pistachio Nuts"],
-        "image": "https://priyansht.github.io/24W-JavaScript-02-Week11/images/ice-cream-xtra2.svg"
+        "image": "https://akur007.github.io/script-java11/images/ice-cream-xtra2.svg"
     }]
 }
